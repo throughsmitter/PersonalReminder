@@ -1,0 +1,4 @@
+Personal Reminder Info Sticker - Software Used:
+Personal Reminder A4 Info Sticker Printing Template was created using GIMP (GPL license) https://www.gimp.org/
+Personal Reminder Info Sticker was created using Inkscape (GPL license) https://inkscape.org/
+Personal Reminder QR Code was generated using ZINT (GPL license) https://www.zint.org.uk/

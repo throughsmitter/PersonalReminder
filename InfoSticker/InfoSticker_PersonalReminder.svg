@@ -1,0 +1,2081 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="28mm"
+   height="28mm"
+   version="1.1"
+   id="svg497"
+   sodipodi:docname="QRCode_PersonalReminderGithub.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   inkscape:export-filename="H:\PersonalReminderSource\PersonalReminder\InfoSticker\QRCode\QRCode_PersonalReminderGithub.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata503">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs501" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview499"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="41.656975"
+     inkscape:cy="38.25726"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg497"
+     inkscape:document-rotation="0"
+     inkscape:document-units="mm"
+     units="mm">
+    <sodipodi:guide
+       position="0,52"
+       orientation="1,0"
+       id="guide1338" />
+    <sodipodi:guide
+       position="20,66"
+       orientation="0,-1"
+       id="guide1340" />
+    <sodipodi:guide
+       position="28,0"
+       orientation="0,-1"
+       id="guide1342" />
+    <sodipodi:guide
+       position="105.75,105.82677"
+       orientation="1,0"
+       id="guide1085" />
+  </sodipodi:namedview>
+  <desc
+     id="desc2">Zint Generated Symbol
+   </desc>
+  <g
+     id="g1835"
+     transform="matrix(1.6000826,0,0,1.6000826,-0.07999923,-0.08770837)">
+    <g
+       id="barcode"
+       fill="#000000"
+       transform="matrix(0.64961113,0,0,0.64961113,11.604584,11.606272)">
+      <rect
+         x="0"
+         y="0"
+         width="14"
+         height="2"
+         id="rect6"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="18"
+         y="0"
+         width="2"
+         height="4"
+         id="rect8"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="22"
+         y="0"
+         width="2"
+         height="2"
+         id="rect10"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="26"
+         y="0"
+         width="2"
+         height="2"
+         id="rect12"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="30"
+         y="0"
+         width="2"
+         height="2"
+         id="rect14"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="34"
+         y="0"
+         width="2"
+         height="2"
+         id="rect16"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="38"
+         y="0"
+         width="2"
+         height="2"
+         id="rect18"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="42"
+         y="0"
+         width="6"
+         height="2"
+         id="rect20"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="52"
+         y="0"
+         width="14"
+         height="2"
+         id="rect22"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="0"
+         y="2"
+         width="2"
+         height="10"
+         id="rect24"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="12"
+         y="2"
+         width="2"
+         height="10"
+         id="rect26"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="26"
+         y="2"
+         width="6"
+         height="2"
+         id="rect28"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="36"
+         y="2"
+         width="2"
+         height="4"
+         id="rect30"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="42"
+         y="2"
+         width="2"
+         height="2"
+         id="rect32"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="46"
+         y="2"
+         width="4"
+         height="2"
+         id="rect34"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="52"
+         y="2"
+         width="2"
+         height="10"
+         id="rect36"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="64"
+         y="2"
+         width="2"
+         height="10"
+         id="rect38"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="4"
+         y="4"
+         width="6"
+         height="6"
+         id="rect40"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="26"
+         y="4"
+         width="2"
+         height="2"
+         id="rect42"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="32"
+         y="4"
+         width="2"
+         height="2"
+         id="rect44"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="46"
+         y="4"
+         width="2"
+         height="2"
+         id="rect46"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="56"
+         y="4"
+         width="6"
+         height="6"
+         id="rect48"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="20"
+         y="6"
+         width="4"
+         height="2"
+         id="rect50"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="26"
+         y="6"
+         width="4"
+         height="2"
+         id="rect52"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="32"
+         y="6"
+         width="6"
+         height="2"
+         id="rect54"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="40"
+         y="6"
+         width="2"
+         height="2"
+         id="rect56"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="44"
+         y="6"
+         width="4"
+         height="2"
+         id="rect58"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="18"
+         y="8"
+         width="12"
+         height="2"
+         id="rect60"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="36"
+         y="8"
+         width="6"
+         height="2"
+         id="rect62"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="46"
+         y="8"
+         width="2"
+         height="2"
+         id="rect64"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="16"
+         y="10"
+         width="6"
+         height="2"
+         id="rect66"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="24"
+         y="10"
+         width="4"
+         height="2"
+         id="rect68"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="30"
+         y="10"
+         width="6"
+         height="2"
+         id="rect70"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="38"
+         y="10"
+         width="2"
+         height="2"
+         id="rect72"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="48"
+         y="10"
+         width="2"
+         height="4"
+         id="rect74"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="0"
+         y="12"
+         width="14"
+         height="2"
+         id="rect76"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="16"
+         y="12"
+         width="2"
+         height="2"
+         id="rect78"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="20"
+         y="12"
+         width="2"
+         height="2"
+         id="rect80"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="24"
+         y="12"
+         width="2"
+         height="2"
+         id="rect82"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="28"
+         y="12"
+         width="2"
+         height="2"
+         id="rect84"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="32"
+         y="12"
+         width="2"
+         height="2"
+         id="rect86"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="36"
+         y="12"
+         width="2"
+         height="2"
+         id="rect88"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="40"
+         y="12"
+         width="2"
+         height="2"
+         id="rect90"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="44"
+         y="12"
+         width="2"
+         height="2"
+         id="rect92"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="52"
+         y="12"
+         width="14"
+         height="2"
+         id="rect94"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="18"
+         y="14"
+         width="8"
+         height="2"
+         id="rect96"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="30"
+         y="14"
+         width="6"
+         height="2"
+         id="rect98"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="42"
+         y="14"
+         width="8"
+         height="2"
+         id="rect100"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="0"
+         y="16"
+         width="2"
+         height="6"
+         id="rect102"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="6"
+         y="16"
+         width="2"
+         height="2"
+         id="rect104"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="10"
+         y="16"
+         width="4"
+         height="2"
+         id="rect106"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="16"
+         y="16"
+         width="2"
+         height="4"
+         id="rect108"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="20"
+         y="16"
+         width="2"
+         height="2"
+         id="rect110"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="26"
+         y="16"
+         width="4"
+         height="2"
+         id="rect112"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="32"
+         y="16"
+         width="2"
+         height="2"
+         id="rect114"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="42"
+         y="16"
+         width="6"
+         height="2"
+         id="rect116"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="50"
+         y="16"
+         width="2"
+         height="2"
+         id="rect118"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="54"
+         y="16"
+         width="2"
+         height="2"
+         id="rect120"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="4"
+         y="18"
+         width="2"
+         height="4"
+         id="rect122"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="8"
+         y="18"
+         width="2"
+         height="2"
+         id="rect124"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="22"
+         y="18"
+         width="8"
+         height="2"
+         id="rect126"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="32"
+         y="18"
+         width="4"
+         height="2"
+         id="rect128"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="40"
+         y="18"
+         width="2"
+         height="2"
+         id="rect130"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="48"
+         y="18"
+         width="8"
+         height="2"
+         id="rect132"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="62"
+         y="18"
+         width="4"
+         height="2"
+         id="rect134"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="12"
+         y="20"
+         width="4"
+         height="2"
+         id="rect136"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="20"
+         y="20"
+         width="2"
+         height="2"
+         id="rect138"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="24"
+         y="20"
+         width="6"
+         height="2"
+         id="rect140"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="32"
+         y="20"
+         width="2"
+         height="2"
+         id="rect142"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="36"
+         y="20"
+         width="6"
+         height="2"
+         id="rect144"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="48"
+         y="20"
+         width="2"
+         height="2"
+         id="rect146"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="54"
+         y="20"
+         width="4"
+         height="2"
+         id="rect148"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="60"
+         y="20"
+         width="6"
+         height="2"
+         id="rect150"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="0"
+         y="22"
+         width="6"
+         height="2"
+         id="rect152"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="10"
+         y="22"
+         width="2"
+         height="2"
+         id="rect154"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="18"
+         y="22"
+         width="2"
+         height="2"
+         id="rect156"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="24"
+         y="22"
+         width="4"
+         height="2"
+         id="rect158"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="30"
+         y="22"
+         width="4"
+         height="2"
+         id="rect160"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="36"
+         y="22"
+         width="4"
+         height="2"
+         id="rect162"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="42"
+         y="22"
+         width="4"
+         height="2"
+         id="rect164"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="56"
+         y="22"
+         width="4"
+         height="2"
+         id="rect166"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="62"
+         y="22"
+         width="2"
+         height="2"
+         id="rect168"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="2"
+         y="24"
+         width="6"
+         height="2"
+         id="rect170"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="10"
+         y="24"
+         width="4"
+         height="2"
+         id="rect172"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="16"
+         y="24"
+         width="6"
+         height="2"
+         id="rect174"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="24"
+         y="24"
+         width="2"
+         height="2"
+         id="rect176"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="28"
+         y="24"
+         width="6"
+         height="2"
+         id="rect178"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="36"
+         y="24"
+         width="2"
+         height="4"
+         id="rect180"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="40"
+         y="24"
+         width="4"
+         height="2"
+         id="rect182"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="46"
+         y="24"
+         width="8"
+         height="2"
+         id="rect184"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="58"
+         y="24"
+         width="2"
+         height="2"
+         id="rect186"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="64"
+         y="24"
+         width="2"
+         height="2"
+         id="rect188"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="0"
+         y="26"
+         width="2"
+         height="4"
+         id="rect190"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="6"
+         y="26"
+         width="6"
+         height="2"
+         id="rect192"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="14"
+         y="26"
+         width="2"
+         height="2"
+         id="rect194"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="18"
+         y="26"
+         width="4"
+         height="2"
+         id="rect196"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="26"
+         y="26"
+         width="6"
+         height="2"
+         id="rect198"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="40"
+         y="26"
+         width="2"
+         height="2"
+         id="rect200"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="44"
+         y="26"
+         width="2"
+         height="2"
+         id="rect202"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="48"
+         y="26"
+         width="2"
+         height="2"
+         id="rect204"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="52"
+         y="26"
+         width="2"
+         height="2"
+         id="rect206"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="56"
+         y="26"
+         width="2"
+         height="2"
+         id="rect208"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="60"
+         y="26"
+         width="6"
+         height="2"
+         id="rect210"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="4"
+         y="28"
+         width="10"
+         height="2"
+         id="rect212"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="16"
+         y="28"
+         width="2"
+         height="2"
+         id="rect214"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="20"
+         y="28"
+         width="6"
+         height="2"
+         id="rect216"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="28"
+         y="28"
+         width="6"
+         height="2"
+         id="rect218"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="38"
+         y="28"
+         width="2"
+         height="2"
+         id="rect220"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="42"
+         y="28"
+         width="2"
+         height="2"
+         id="rect222"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="46"
+         y="28"
+         width="10"
+         height="2"
+         id="rect224"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="62"
+         y="28"
+         width="2"
+         height="4"
+         id="rect226"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="2"
+         y="30"
+         width="4"
+         height="2"
+         id="rect228"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="10"
+         y="30"
+         width="2"
+         height="2"
+         id="rect230"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="14"
+         y="30"
+         width="4"
+         height="2"
+         id="rect232"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="20"
+         y="30"
+         width="2"
+         height="2"
+         id="rect234"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="26"
+         y="30"
+         width="4"
+         height="2"
+         id="rect236"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="32"
+         y="30"
+         width="6"
+         height="2"
+         id="rect238"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="40"
+         y="30"
+         width="4"
+         height="2"
+         id="rect240"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="52"
+         y="30"
+         width="4"
+         height="2"
+         id="rect242"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="0"
+         y="32"
+         width="4"
+         height="6"
+         id="rect244"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="12"
+         y="32"
+         width="2"
+         height="2"
+         id="rect246"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="18"
+         y="32"
+         width="4"
+         height="2"
+         id="rect248"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="28"
+         y="32"
+         width="4"
+         height="2"
+         id="rect250"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="34"
+         y="32"
+         width="2"
+         height="2"
+         id="rect252"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="42"
+         y="32"
+         width="4"
+         height="2"
+         id="rect254"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="48"
+         y="32"
+         width="2"
+         height="2"
+         id="rect256"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="52"
+         y="32"
+         width="2"
+         height="2"
+         id="rect258"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="56"
+         y="32"
+         width="8"
+         height="2"
+         id="rect260"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="6"
+         y="34"
+         width="2"
+         height="4"
+         id="rect262"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="16"
+         y="34"
+         width="2"
+         height="2"
+         id="rect264"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="24"
+         y="34"
+         width="2"
+         height="4"
+         id="rect266"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="28"
+         y="34"
+         width="2"
+         height="6"
+         id="rect268"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="32"
+         y="34"
+         width="6"
+         height="2"
+         id="rect270"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="46"
+         y="34"
+         width="6"
+         height="2"
+         id="rect272"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="54"
+         y="34"
+         width="2"
+         height="2"
+         id="rect274"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="58"
+         y="34"
+         width="2"
+         height="2"
+         id="rect276"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="12"
+         y="36"
+         width="2"
+         height="2"
+         id="rect278"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="20"
+         y="36"
+         width="2"
+         height="2"
+         id="rect280"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="34"
+         y="36"
+         width="2"
+         height="2"
+         id="rect282"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="42"
+         y="36"
+         width="2"
+         height="2"
+         id="rect284"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="48"
+         y="36"
+         width="4"
+         height="2"
+         id="rect286"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="60"
+         y="36"
+         width="6"
+         height="2"
+         id="rect288"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="0"
+         y="38"
+         width="2"
+         height="4"
+         id="rect290"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="4"
+         y="38"
+         width="8"
+         height="2"
+         id="rect292"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="16"
+         y="38"
+         width="4"
+         height="2"
+         id="rect294"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="32"
+         y="38"
+         width="2"
+         height="2"
+         id="rect296"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="38"
+         y="38"
+         width="12"
+         height="2"
+         id="rect298"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="52"
+         y="38"
+         width="4"
+         height="2"
+         id="rect300"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="62"
+         y="38"
+         width="2"
+         height="4"
+         id="rect302"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="6"
+         y="40"
+         width="2"
+         height="2"
+         id="rect304"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="12"
+         y="40"
+         width="2"
+         height="2"
+         id="rect306"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="22"
+         y="40"
+         width="2"
+         height="2"
+         id="rect308"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="34"
+         y="40"
+         width="2"
+         height="4"
+         id="rect310"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="38"
+         y="40"
+         width="2"
+         height="4"
+         id="rect312"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="42"
+         y="40"
+         width="2"
+         height="4"
+         id="rect314"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="46"
+         y="40"
+         width="2"
+         height="2"
+         id="rect316"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="50"
+         y="40"
+         width="2"
+         height="2"
+         id="rect318"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="54"
+         y="40"
+         width="2"
+         height="2"
+         id="rect320"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="4"
+         y="42"
+         width="2"
+         height="2"
+         id="rect322"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="8"
+         y="42"
+         width="4"
+         height="2"
+         id="rect324"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="18"
+         y="42"
+         width="2"
+         height="2"
+         id="rect326"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="28"
+         y="42"
+         width="4"
+         height="2"
+         id="rect328"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="46"
+         y="42"
+         width="8"
+         height="2"
+         id="rect330"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="58"
+         y="42"
+         width="2"
+         height="2"
+         id="rect332"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="62"
+         y="42"
+         width="4"
+         height="2"
+         id="rect334"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="0"
+         y="44"
+         width="4"
+         height="2"
+         id="rect336"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="6"
+         y="44"
+         width="4"
+         height="2"
+         id="rect338"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="12"
+         y="44"
+         width="4"
+         height="2"
+         id="rect340"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="18"
+         y="44"
+         width="6"
+         height="2"
+         id="rect342"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="28"
+         y="44"
+         width="2"
+         height="2"
+         id="rect344"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="32"
+         y="44"
+         width="2"
+         height="2"
+         id="rect346"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="38"
+         y="44"
+         width="6"
+         height="2"
+         id="rect348"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="48"
+         y="44"
+         width="2"
+         height="4"
+         id="rect350"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="52"
+         y="44"
+         width="2"
+         height="2"
+         id="rect352"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="56"
+         y="44"
+         width="2"
+         height="2"
+         id="rect354"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="60"
+         y="44"
+         width="2"
+         height="2"
+         id="rect356"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="64"
+         y="44"
+         width="2"
+         height="2"
+         id="rect358"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="2"
+         y="46"
+         width="2"
+         height="2"
+         id="rect360"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="10"
+         y="46"
+         width="2"
+         height="2"
+         id="rect362"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="14"
+         y="46"
+         width="2"
+         height="2"
+         id="rect364"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="18"
+         y="46"
+         width="2"
+         height="2"
+         id="rect366"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="30"
+         y="46"
+         width="2"
+         height="2"
+         id="rect368"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="36"
+         y="46"
+         width="2"
+         height="2"
+         id="rect370"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="40"
+         y="46"
+         width="6"
+         height="2"
+         id="rect372"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="54"
+         y="46"
+         width="2"
+         height="2"
+         id="rect374"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="58"
+         y="46"
+         width="2"
+         height="2"
+         id="rect376"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="62"
+         y="46"
+         width="2"
+         height="2"
+         id="rect378"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="0"
+         y="48"
+         width="2"
+         height="2"
+         id="rect380"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="12"
+         y="48"
+         width="2"
+         height="2"
+         id="rect382"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="16"
+         y="48"
+         width="2"
+         height="4"
+         id="rect384"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="22"
+         y="48"
+         width="4"
+         height="2"
+         id="rect386"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="28"
+         y="48"
+         width="2"
+         height="2"
+         id="rect388"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="34"
+         y="48"
+         width="2"
+         height="4"
+         id="rect390"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="40"
+         y="48"
+         width="4"
+         height="2"
+         id="rect392"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="46"
+         y="48"
+         width="12"
+         height="2"
+         id="rect394"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="64"
+         y="48"
+         width="2"
+         height="4"
+         id="rect396"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="20"
+         y="50"
+         width="2"
+         height="2"
+         id="rect398"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="38"
+         y="50"
+         width="2"
+         height="2"
+         id="rect400"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="42"
+         y="50"
+         width="4"
+         height="2"
+         id="rect402"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="48"
+         y="50"
+         width="2"
+         height="6"
+         id="rect404"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="56"
+         y="50"
+         width="4"
+         height="2"
+         id="rect406"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="0"
+         y="52"
+         width="14"
+         height="2"
+         id="rect408"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="18"
+         y="52"
+         width="2"
+         height="2"
+         id="rect410"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="22"
+         y="52"
+         width="4"
+         height="2"
+         id="rect412"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="28"
+         y="52"
+         width="2"
+         height="2"
+         id="rect414"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="32"
+         y="52"
+         width="6"
+         height="2"
+         id="rect416"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="40"
+         y="52"
+         width="2"
+         height="2"
+         id="rect418"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="52"
+         y="52"
+         width="2"
+         height="2"
+         id="rect420"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="56"
+         y="52"
+         width="8"
+         height="2"
+         id="rect422"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="0"
+         y="54"
+         width="2"
+         height="10"
+         id="rect424"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="12"
+         y="54"
+         width="2"
+         height="10"
+         id="rect426"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="16"
+         y="54"
+         width="2"
+         height="2"
+         id="rect428"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="24"
+         y="54"
+         width="2"
+         height="2"
+         id="rect430"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="30"
+         y="54"
+         width="2"
+         height="2"
+         id="rect432"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="34"
+         y="54"
+         width="10"
+         height="2"
+         id="rect434"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="56"
+         y="54"
+         width="2"
+         height="2"
+         id="rect436"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="62"
+         y="54"
+         width="2"
+         height="2"
+         id="rect438"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="4"
+         y="56"
+         width="6"
+         height="6"
+         id="rect440"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="22"
+         y="56"
+         width="10"
+         height="2"
+         id="rect442"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="36"
+         y="56"
+         width="2"
+         height="4"
+         id="rect444"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="42"
+         y="56"
+         width="4"
+         height="2"
+         id="rect446"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="48"
+         y="56"
+         width="12"
+         height="2"
+         id="rect448"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="64"
+         y="56"
+         width="2"
+         height="2"
+         id="rect450"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="16"
+         y="58"
+         width="2"
+         height="2"
+         id="rect452"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="20"
+         y="58"
+         width="2"
+         height="2"
+         id="rect454"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="26"
+         y="58"
+         width="2"
+         height="2"
+         id="rect456"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="30"
+         y="58"
+         width="4"
+         height="2"
+         id="rect458"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="46"
+         y="58"
+         width="2"
+         height="2"
+         id="rect460"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="52"
+         y="58"
+         width="2"
+         height="2"
+         id="rect462"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="56"
+         y="58"
+         width="4"
+         height="2"
+         id="rect464"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="22"
+         y="60"
+         width="14"
+         height="2"
+         id="rect466"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="42"
+         y="60"
+         width="2"
+         height="2"
+         id="rect468"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="56"
+         y="60"
+         width="6"
+         height="2"
+         id="rect470"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="64"
+         y="60"
+         width="2"
+         height="2"
+         id="rect472"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="22"
+         y="62"
+         width="6"
+         height="4"
+         id="rect474"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="34"
+         y="62"
+         width="4"
+         height="2"
+         id="rect476"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="40"
+         y="62"
+         width="4"
+         height="2"
+         id="rect478"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="46"
+         y="62"
+         width="4"
+         height="2"
+         id="rect480"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="0"
+         y="64"
+         width="14"
+         height="2"
+         id="rect482"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="16"
+         y="64"
+         width="2"
+         height="2"
+         id="rect484"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="30"
+         y="64"
+         width="4"
+         height="2"
+         id="rect486"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="42"
+         y="64"
+         width="2"
+         height="2"
+         id="rect488"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="48"
+         y="64"
+         width="4"
+         height="2"
+         id="rect490"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="56"
+         y="64"
+         width="2"
+         height="2"
+         id="rect492"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         x="62"
+         y="64"
+         width="2"
+         height="2"
+         id="rect494"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+    </g>
+    <circle
+       style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.324806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path505"
+       cx="33.119156"
+       cy="33.123974"
+       r="32.842846"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.4646px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.649611"
+       x="11.416292"
+       y="10.640865"
+       id="text1332"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1330"
+         x="11.416292"
+         y="10.640865"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4646px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.649611">g:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.4646px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.649611"
+       x="11.296049"
+       y="57.059349"
+       id="text1332-3"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1330-1"
+         x="11.296049"
+         y="57.059349"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4646px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.649611">r:</tspan></text>
+  </g>
+</svg>
